@@ -531,6 +531,6 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
     <p><strong>Paper Bag Calculator Pro</strong> v1.0 | Built with Streamlit</p>
-    <p>For business inquiries: <a href='mailto:your@email.com'>chahatudin202@gmail.com</a></p>
+    <p>For business inquiries: <a href='mailto:your@email.com'>chaharudin202@gmail.com</a></p>
 </div>
 """, unsafe_allow_html=True)
